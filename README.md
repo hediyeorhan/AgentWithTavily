@@ -1,6 +1,6 @@
 # AgentWithTavily
 
-Bu çalışmada Google AI tarafından geliştirilen yapay zekâ Gemini API'ı kullanılarak basit bir RAG (Retrieval-Augmented Generation) projesi geliştirilmiştir. 
+Bu çalışmada Google AI tarafından geliştirilen yapay zekâ Gemini API'ı kullanılarak temel bir Agent projesi geliştirilmiştir. 
 
 Projede __.env__ dosyasında içeriğinde şu veriler bulunmaktadır.
 
